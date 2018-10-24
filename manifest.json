@@ -1,0 +1,21 @@
+{
+  "manifest_version": 2,
+
+  "name": "page-zoom",
+  "description": "page-zoom",
+  "version": "0.0.1",
+
+  "applications": {
+    "gecko": {
+      "id": "page-zoom@ris58h"
+    }
+  },
+
+  "permissions": [
+    "tabs"
+  ],
+
+  "background": {
+    "scripts": ["background.js"]
+  }
+}
