@@ -1,9 +1,9 @@
 {
   "manifest_version": 2,
 
-  "name": "page-zoom",
-  "description": "page-zoom",
-  "version": "0.0.1",
+  "name": "Page Zoom",
+  "description": "Sets default zoom for tabs.",
+  "version": "0.1.0",
 
   "applications": {
     "gecko": {
